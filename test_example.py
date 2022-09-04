@@ -10,3 +10,6 @@ def test_3():
 def test_4():
     assert 7 == 8
 
+def test_5():
+    assert 7 == 9
+
