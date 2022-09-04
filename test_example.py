@@ -1,3 +1,5 @@
 def test_one():
     assert 2 > 1
-    assert 3 = 2
+
+def test_two():
+    assert 3 == 2
