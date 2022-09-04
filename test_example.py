@@ -6,3 +6,6 @@ def test_two():
 
 def test_3():
     assert 4 >= 2
+
+def test_4():
+    assert 7 == 8
